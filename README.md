@@ -35,7 +35,7 @@
 -  [Styled Components](https://styled-components.com/)
 
 ### :memo: License
-Esse projeto está sob MIT license. Veja [LICENSE](https://github.com/belapferreira/desafio05-primeiro-projeto-com-reactJS/LICENSE) para mais informações.
+Esse projeto está sob MIT license. Veja [LICENSE](https://github.com/belapferreira/desafio05-primeiro-projeto-com-reactJS/blob/master/LICENSE) para mais informações.
 
 ---
 
